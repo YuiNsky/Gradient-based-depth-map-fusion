@@ -85,7 +85,7 @@ To evaluate our model on Multiscopic, you can download this dataset [here](https
 
 To evaluate our model on Middleburry2021, you can download this dataset [here](https://vision.middlebury.edu/stereo/data/scenes2021/zip/all.zip). You need to unzip the dataset, rename it as `2021mobile`  and place it in folder `datasets`.
 
-To evaluate our model on Hypersim, you can download the whole dataset [here](https://github.com/apple/ml-hypersim/blob/main/code/python/tools/dataset_download_images.py). We also provide the evaluation subsets [hypersim](). You need to download the subsets and place it in folder `datasets`.
+To evaluate our model on Hypersim, you can download the whole dataset [here](https://github.com/apple/ml-hypersim/blob/main/code/python/tools/dataset_download_images.py). We also provide the evaluation subsets [hypersim](https://shanghaitecheducn-my.sharepoint.com/:u:/g/personal/chenky12022_shanghaitech_edu_cn/EZcASVNppkNIo34mSBiXUjAByGyg4HCEXW0voRdnmT-sQg?e=1opopk). You need to download the subsets and place it in folder `datasets`.
 
 
 
