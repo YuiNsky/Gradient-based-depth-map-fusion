@@ -1,0 +1,56 @@
+name: GBDF
+channels:
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - _openmp_mutex=5.1=1_gnu
+  - ca-certificates=2022.10.11=h06a4308_0
+  - certifi=2022.9.24=py38h06a4308_0
+  - ld_impl_linux-64=2.38=h1181459_1
+  - libffi=3.4.2=h6a678d5_6
+  - libgcc-ng=11.2.0=h1234567_1
+  - libgomp=11.2.0=h1234567_1
+  - libstdcxx-ng=11.2.0=h1234567_1
+  - ncurses=6.3=h5eee18b_3
+  - openssl=1.1.1s=h7f8727e_0
+  - pip=22.2.2=py38h06a4308_0
+  - python=3.8.15=h3fd9d12_0
+  - readline=8.2=h5eee18b_0
+  - setuptools=65.5.0=py38h06a4308_0
+  - sqlite=3.40.0=h5082296_0
+  - tk=8.6.12=h1ccaba5_0
+  - wheel=0.37.1=pyhd3eb1b0_0
+  - xz=5.2.6=h5eee18b_0
+  - zlib=1.2.13=h5eee18b_0
+  - pip:
+    - argparse==1.4.0
+    - click==8.1.3
+    - contourpy==1.0.6
+    - cycler==0.11.0
+    - fonttools==4.38.0
+    - h5df==0.1.5
+    - h5py==3.7.0
+    - imageio==2.22.4
+    - kiwisolver==1.4.4
+    - matplotlib==3.6.2
+    - networkx==2.8.8
+    - numpy==1.23.5
+    - opencv-python==4.6.0.66
+    - packaging==21.3
+    - pandas==1.5.2
+    - pillow==9.3.0
+    - plyfile==0.7.4
+    - pyparsing==3.0.9
+    - python-dateutil==2.8.2
+    - pytz==2022.6
+    - pywavelets==1.4.1
+    - scikit-image==0.19.3
+    - scipy==1.9.3
+    - six==1.16.0
+    - sklearn==0.0.post1
+    - tifffile==2022.10.10
+    - typing-extensions==4.4.0
+
