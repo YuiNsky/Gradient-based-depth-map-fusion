@@ -42,7 +42,7 @@ This repository contains code and models for our [paper]():
 
 
 
-3. Download fusion model [model_dict.pt]() and place in the folder `models`.
+3. Download fusion model [model_dict.pt](https://github.com/YuiNsky/Gradient-based-depth-map-fusion/releases/download/v1.0/model_dict.pt) and place in the folder `models`.
 
    
 
