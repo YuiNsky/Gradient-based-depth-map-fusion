@@ -38,7 +38,7 @@ def Train_HR(Fuse_model, optimizer, scheduler):
     for index in index_list:
         data_loc = f'./datasets/HR/hq_HR_{index}.hdf5'
         data_set = DataFromH5File(data_loc)
-        train_loader = dataloader.DataLoader(dataset=data_set, batch_size=2, shuffle=False, num_workers=0, pin_memory=False)
+        train_loader = dataloader.DataLoader(dataset=data_set, batch_size=2, shuffle=True, num_workers=0, pin_memory=False)
         for step, (low, high, guided, photo) in enumerate(train_loader):
             optimizer.zero_grad()
             loss = Fuse_model.cret(low.clone().detach(), high.clone().detach(), guided.clone().detach())
