@@ -75,7 +75,7 @@ This repository contains code and models for our [paper]():
 	```
 
 
-3) The results are written to the folder `output `, every result is combined with input image, backbone prediction and our prediction.
+3) The results are written to the folder `output`, every result is the combination of input image, backbone prediction and our prediction.
 
 ​		Use the flag `-p` to switch between different backbones. Possible options are `LeRes50` (default), `LeRes101`, `SGR`, `MiDaS`, `DPT` and `NeWCRFs`.
 
