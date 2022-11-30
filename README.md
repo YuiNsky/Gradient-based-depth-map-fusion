@@ -10,8 +10,6 @@ This repository contains code and models for our [paper]():
 
 ![](./figures/3.gif)
 
-![](./figures/4.gif)
-
 ### Changelog 
 
 * [November 2022] Initial release of code and models
