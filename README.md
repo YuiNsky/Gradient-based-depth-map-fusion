@@ -101,7 +101,7 @@ Use the flag `-d` to switch between different datasets. Possible options are `mi
 
 ### Training
 
-Our model was trained based on backbone LeRes and dataset HR-WSI, we use guided filter to preprocess the dataset and select high quality results as our training datasets based on canny edge detection. You need to download the preprocessed dataset [HR]() and place it in the folder `datasets`.
+Our model was trained based on backbone LeRes and dataset HR-WSI, we use guided filter to preprocess the dataset and select high quality results as our training datasets based on canny edge detection. You need to download the preprocessed dataset [HR](https://shanghaitecheducn-my.sharepoint.com/:u:/g/personal/chenky12022_shanghaitech_edu_cn/EQWICYjodhFCjiimYsLSUDABI5-sYddf6MleupjU0RRPWQ?e=GahsRB) and place it in the folder `datasets`.
 
 Then you can train our fusion model using GPU:
 
