@@ -1,6 +1,6 @@
 ## Multi-resolution Monocular Depth Map Fusion by Self-supervised Gradient-based Composition
 
-This repository contains code and models for our [paper]():
+This repository contains code and models for our [paper](https://arxiv.org/pdf/2212.01538.pdf):
 
 > [1] Yaqiao Dai, Renjiao Yi, Chenyang Zhu, Hongjun He, Kai Xu,  Multi-resolution Monocular Depth Map Fusion by Self-supervised  Gradient-based Composition, AAAI 2023
 
