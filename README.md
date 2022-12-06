@@ -114,7 +114,12 @@ python train.py
 
 Please cite our papers if you use this code. 
 ```
-
+@article{dai2022multi,
+  title={Multi-resolution Monocular Depth Map Fusion by Self-supervised Gradient-based Composition},
+  author={Dai, Yaqiao and Yi, Renjiao and Zhu, Chenyang and He, Hongjun and Xu, Kai},
+  journal={arXiv preprint arXiv:2212.01538},
+  year={2022}
+}
 ```
 
 ### License 
